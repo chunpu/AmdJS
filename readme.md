@@ -1,13 +1,13 @@
 AmdJS
 ---
 
-`amd.js` is a extreme simple AMD project loader
+`amd.js` is a extreme simple [AMD](https://github.com/amdjs/amdjs-api/wiki/AMD) project loader
 
 `amd.min.js` is as small as *1.4k*
 
-all thing `amd.js` can do is to load AMD project like jQuery
+all things `amd.js` can do are to load AMD project like jQuery
 
-demo(todo)
+demo (todo)
 
 ### Usage
 
@@ -31,4 +31,4 @@ CommonJS wrapping has not been implemented
 
 only tested in chrome
 
-[more info about amd](https://github.com/amdjs/amdjs-api/wiki/AMD)
+[more info about Amd](https://github.com/amdjs/amdjs-api/wiki/AMD)
