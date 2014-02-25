@@ -2,7 +2,7 @@
   function loadScript(url) {
     count++
     var script = document.createElement('script')
-    path = ''
+    path = '' // future use
     script.async = true
     script.src = path + url + '.js'
     document.getElementsByTagName("head")[0].appendChild(script)
